@@ -1,11 +1,15 @@
 {
   "license": "UNLICENSED",
   "dependencies": {
-    "zenn-cli": "^0.1.119"
+    "zenn-cli": "^0.1.120"
   },
   "scripts": {
     "preview": "npx zenn preview",
     "article": "npx zenn new:article",
     "book": "npx zenn new:book"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "prettier-plugin-md-nocjsp": "^1.4.0"
   }
 }

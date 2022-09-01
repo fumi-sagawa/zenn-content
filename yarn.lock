@@ -2,7 +2,17 @@
 # yarn lockfile v1
 
 
-zenn-cli@^0.1.119:
-  version "0.1.119"
-  resolved "https://registry.yarnpkg.com/zenn-cli/-/zenn-cli-0.1.119.tgz#d3e49eac50fb95c9f3501921e89e570651a94f6d"
-  integrity sha512-28qcKbrsZp0zHJJvXgUQlvOmcMIvBfJeyRBk17DFfcuvFykR0KiJcBuFyRQPINi2a2x3jJ8yyjyzIOCb2HmTmQ==
+prettier-plugin-md-nocjsp@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-md-nocjsp/-/prettier-plugin-md-nocjsp-1.4.0.tgz#a82dad2adbd9655df046d4e8d75ec69876bcfa90"
+  integrity sha512-w8N5N7w5lSVj+kX4d9fYU3xeFdxh/CkoYHy7CojtZJCkwOZXrTBvymJMnnOjBLNseTJ24j0q+BlmpkTNq+rxbg==
+
+prettier@^2.7.1:
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.7.1.tgz#e235806850d057f97bb08368a4f7d899f7760c64"
+  integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
+
+zenn-cli@^0.1.120:
+  version "0.1.120"
+  resolved "https://registry.yarnpkg.com/zenn-cli/-/zenn-cli-0.1.120.tgz#a30b530691e843c1ecda90d1bbc66270341c3bff"
+  integrity sha512-K3Dh1/vhEwPbUx5fOFTuAFv/rSnsqA/6HLt6+kZw2xnT/40BJzYPW3l59Fzf3xrGlrs8mBgi9Da0Mnlo+RLH9w==
