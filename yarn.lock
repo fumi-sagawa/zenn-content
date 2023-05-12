@@ -2,17 +2,17 @@
 # yarn lockfile v1
 
 
-"prettier-plugin-md-nocjsp@^1.4.0":
-  "integrity" "sha512-w8N5N7w5lSVj+kX4d9fYU3xeFdxh/CkoYHy7CojtZJCkwOZXrTBvymJMnnOjBLNseTJ24j0q+BlmpkTNq+rxbg=="
-  "resolved" "https://registry.npmjs.org/prettier-plugin-md-nocjsp/-/prettier-plugin-md-nocjsp-1.4.0.tgz"
-  "version" "1.4.0"
+prettier-plugin-md-nocjsp@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.npmjs.org/prettier-plugin-md-nocjsp/-/prettier-plugin-md-nocjsp-1.4.0.tgz"
+  integrity sha512-w8N5N7w5lSVj+kX4d9fYU3xeFdxh/CkoYHy7CojtZJCkwOZXrTBvymJMnnOjBLNseTJ24j0q+BlmpkTNq+rxbg==
 
-"prettier@^2.7.1":
-  "integrity" "sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g=="
-  "resolved" "https://registry.npmjs.org/prettier/-/prettier-2.7.1.tgz"
-  "version" "2.7.1"
+prettier@^2.7.1:
+  version "2.7.1"
+  resolved "https://registry.npmjs.org/prettier/-/prettier-2.7.1.tgz"
+  integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
 
-"zenn-cli@^0.1.137":
-  "integrity" "sha512-WE0L9ZKlWZdpr+O8EMnIEaQDNmGe8eg0n71KifVB2n1g9vYVP0hfTKWondT4FYpIJidQ3IDSHW7TyKIOSgi/xA=="
-  "resolved" "https://registry.npmjs.org/zenn-cli/-/zenn-cli-0.1.137.tgz"
-  "version" "0.1.137"
+zenn-cli@^0.1.143:
+  version "0.1.143"
+  resolved "https://registry.yarnpkg.com/zenn-cli/-/zenn-cli-0.1.143.tgz#a9a086a7294d9da20a3dfe02a9b41ea7fd098cc8"
+  integrity sha512-LW11tcLK4yLIW32NiVAHXgb5hOzRaClNag4/hhOXSFZ0IroF7XLgBN/IgbLk9sz8fX3XjhgptX8mDJC50JxBDA==
