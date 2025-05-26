@@ -12,7 +12,7 @@ prettier@^2.7.1:
   resolved "https://registry.npmjs.org/prettier/-/prettier-2.7.1.tgz"
   integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
 
-zenn-cli@^0.1.143:
-  version "0.1.143"
-  resolved "https://registry.yarnpkg.com/zenn-cli/-/zenn-cli-0.1.143.tgz#a9a086a7294d9da20a3dfe02a9b41ea7fd098cc8"
-  integrity sha512-LW11tcLK4yLIW32NiVAHXgb5hOzRaClNag4/hhOXSFZ0IroF7XLgBN/IgbLk9sz8fX3XjhgptX8mDJC50JxBDA==
+zenn-cli@^0.1.159:
+  version "0.1.159"
+  resolved "https://registry.npmjs.org/zenn-cli/-/zenn-cli-0.1.159.tgz"
+  integrity sha512-a4/Lkg3DnxWlYh2Z0abuvvmpQc0BnfTQrVyNQxYm+IOrwGJepZabwWTT0Q3eZ3r7hAV/xd8MZsmZL3y3pzMpAA==

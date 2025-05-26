@@ -1,7 +1,7 @@
 {
   "license": "UNLICENSED",
   "dependencies": {
-    "zenn-cli": "^0.1.143"
+    "zenn-cli": "^0.1.159"
   },
   "scripts": {
     "preview": "npx zenn preview",
