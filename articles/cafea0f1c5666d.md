@@ -3,7 +3,7 @@ title: "生成AIによる開発パラダイムを「演繹」から「帰納」�
 emoji: "🐥"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ['ai']
-published: true
+published: false
 ---
 
 :::message
